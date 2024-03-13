@@ -1,5 +1,5 @@
 # Milo-Unblocked
-操作：
+Controls:：
     Touch the screen to control Milo's movement within the map and find the exit to win.
 Props:：
     Wall: Blocks Milo's progress.
