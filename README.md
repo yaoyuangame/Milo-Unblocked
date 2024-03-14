@@ -12,7 +12,7 @@ Props:：
     
     Black hole: Milo cannot enter black holes, but rocks can fill them.
     
-Latest Version: 1.0.0
+Latest Version: 1.1.0
 
 Contact Us：
 
